@@ -542,6 +542,10 @@ div#tarteaucitronServices {
     z-index: 2147483644;
 }
 
+.tarteaucitronAlertBigWrapper {
+    text-align: center !important;
+}
+
 /***
  * Small alert
  */
