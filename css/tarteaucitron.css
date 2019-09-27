@@ -302,9 +302,9 @@ div#tarteaucitronServices {
     box-sizing: border-box;
 }
 
-#tarteaucitronAlertSmall #tarteaucitronCookiesListContainer #tarteaucitronCookiesList .tarteaucitronTitle, 
-#tarteaucitron #tarteaucitronServices .tarteaucitronTitle button, 
-#tarteaucitron #tarteaucitronInfo, 
+#tarteaucitronAlertSmall #tarteaucitronCookiesListContainer #tarteaucitronCookiesList .tarteaucitronTitle,
+#tarteaucitron #tarteaucitronServices .tarteaucitronTitle button,
+#tarteaucitron #tarteaucitronInfo,
 #tarteaucitron #tarteaucitronServices .tarteaucitronDetails {
     color: #fff;
     display: inline-block;
